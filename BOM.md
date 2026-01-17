@@ -1,4 +1,4 @@
-Component Name--Quantity--Unit Price
+Component Name--Quantity--Unit Price in BDT
 Arduino Uno R3--1--960
 400-point breadboard--1--85
 10K Potentiometer--1--15
