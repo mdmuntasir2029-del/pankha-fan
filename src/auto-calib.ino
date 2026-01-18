@@ -1,3 +1,5 @@
+// code for auto calibrating system
+
 #include <LiquidCrystal.h>
 #include <DHT.h>
 
